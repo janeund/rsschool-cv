@@ -25,8 +25,8 @@ function getRandomNumber() {
 ## Education
 * **Bachelor**: Accounting and auditing, Ivanovo state University (2018)
 * **Courses:**
-* ["Bulding website layout" by Vadim Prokopchuk](https://from0to1.com.ua/) (completed)
-* [Udemy, "Javascript Tutorial and Projects Course" by John Smilga](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) (in progress)
++ ["Bulding website layout" by Vadim Prokopchuk](https://from0to1.com.ua/) (completed)
++ [Udemy, "Javascript Tutorial and Projects Course" by John Smilga](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) (in progress)
 ## Languages
 * Russian (native)
 * English (intermediate)
